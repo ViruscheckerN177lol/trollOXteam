@@ -1,0 +1,1 @@
+A Python console prank script for Windows. You launch it, and off it goes: a huge OXTEAM art flashes, the colors change, music plays (or bits beep), and 10 minutes later a secret scrolling ticker kicks in.
